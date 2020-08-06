@@ -51,6 +51,7 @@ public class Timeline : MonoBehaviour
             if (isRewinding)
             {
                 Vector2 move = timeline[i];
+                timeline[i] = Vector2.zero;
                 movementController.Move(move);
                 yield return new WaitForSeconds(.6f);
             }
