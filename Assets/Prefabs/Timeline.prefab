@@ -128,7 +128,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 924340363e97f5342a4c796a2c1fce0d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timelineLength: 3
+  timelineLength: 0
   isRewinding: 0
 --- !u!114 &5624578242875582289
 MonoBehaviour:

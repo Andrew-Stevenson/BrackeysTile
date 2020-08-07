@@ -10,7 +10,7 @@ public class Timeline : MonoBehaviour
     PlayerMovement movementController;
     UserInput inputController;
 
-    public bool isRewinding = false;
+    [HideInInspector] public bool isRewinding = false;
 
     void Awake()
     {
