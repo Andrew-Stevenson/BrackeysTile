@@ -17,7 +17,7 @@ TagManager:
   - Interactables
   - Floor
   - Win
-  - 
+  - Wall
   - 
   - 
   - 
@@ -46,6 +46,9 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 3258116049
+    locked: 0
+  - name: Interactables
+    uniqueID: 2900094533
     locked: 0
   - name: Player
     uniqueID: 907089195

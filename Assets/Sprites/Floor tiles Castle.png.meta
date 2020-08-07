@@ -1,0 +1,2795 @@
+fileFormatVersion: 2
+guid: 8fe5e92053f3a4e468fa1aa376079d69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2994459083029015954
+    second: Stone old 3
+  - first:
+      213: -8577618795923861018
+    second: Carpet End S
+  - first:
+      213: -3463109080134497762
+    second: Carpet Vertical Deco 1
+  - first:
+      213: -1731724687195952820
+    second: Stone Horizontal Deco 1
+  - first:
+      213: -1000933029878405245
+    second: Stone Horizontal
+  - first:
+      213: 3705910022824768334
+    second: Wood 3
+  - first:
+      213: -8197558143916722549
+    second: Stone 4 Tiles
+  - first:
+      213: 5230100347694805923
+    second: Stone Crossroads
+  - first:
+      213: 4050538465380520004
+    second: Stone Crossroads N
+  - first:
+      213: -1420301732191024020
+    second: Floor tiles Castle_9
+  - first:
+      213: -8626102349853061525
+    second: Stone Turn
+  - first:
+      213: 3163399172450672880
+    second: Carpet Crossroads
+  - first:
+      213: 2896414525987674362
+    second: Stone base
+  - first:
+      213: -8719025569413727134
+    second: Carpet Crossroads S
+  - first:
+      213: 1476968644708143322
+    second: Wood Base
+  - first:
+      213: 4196859331667272147
+    second: Carpet crossroads Deco
+  - first:
+      213: -7327475390345022769
+    second: Carpet Crossroads S deco
+  - first:
+      213: -1897585968505848738
+    second: Wood crossroads deco
+  - first:
+      213: -1218856748503659238
+    second: Wood corner 2
+  - first:
+      213: 6946887674338567787
+    second: Carpet End N
+  - first:
+      213: -6932388678984464435
+    second: Wood crossroads
+  - first:
+      213: 8443879526096365331
+    second: Wood W
+  - first:
+      213: -6683433550468444491
+    second: Wood N
+  - first:
+      213: -6227661215904191885
+    second: Wood S
+  - first:
+      213: -5347384231524653384
+    second: Wood Horizontal 1
+  - first:
+      213: -3158039939909242322
+    second: Carpet corner clean
+  - first:
+      213: 5020181766177283777
+    second: Carpet crossroads S clean 1
+  - first:
+      213: -1014320281630200381
+    second: Stone old base
+  - first:
+      213: -1614966432943801172
+    second: Carpet Base
+  - first:
+      213: -5670397595164668864
+    second: Wood Horizontal 2
+  - first:
+      213: 2101507521855789820
+    second: Carpet End E
+  - first:
+      213: 2001370898744250689
+    second: Carpet Vertical Deco 2
+  - first:
+      213: 7584565478832731289
+    second: Monolith 2 NE
+  - first:
+      213: -8115229077662432402
+    second: Floor tiles Castle_33
+  - first:
+      213: 2106421578208202233
+    second: Stone Crossroads N Interior 1
+  - first:
+      213: 810528266778890522
+    second: Wood Large SW
+  - first:
+      213: 8075434910296557058
+    second: Wood large SE
+  - first:
+      213: -7387984669703482736
+    second: Carpet End W
+  - first:
+      213: -2807113256107695814
+    second: Stone old 1
+  - first:
+      213: -2703713493494072197
+    second: Carpet NW
+  - first:
+      213: 3360533729059139949
+    second: Stone End W
+  - first:
+      213: 3063270500154772604
+    second: Stone End N
+  - first:
+      213: 333521236671821145
+    second: Stone Crossroads S
+  - first:
+      213: -6145861148040336872
+    second: Carpet Horizontal
+  - first:
+      213: -8255919364784482573
+    second: Carpet Corner NE
+  - first:
+      213: 509121718205535798
+    second: Carpet Horizontal Deco 1
+  - first:
+      213: 337625723443958050
+    second: Floor tiles Castle_46
+  - first:
+      213: -4070383231747215636
+    second: Floor tiles Castle_47
+  - first:
+      213: 176649395086244782
+    second: Carpet SW
+  - first:
+      213: -3563381737460701508
+    second: Carpet SE
+  - first:
+      213: -8361755438976514535
+    second: Stone End S
+  - first:
+      213: -1938022801489218651
+    second: Stone Crossroads East
+  - first:
+      213: 6922910886138137420
+    second: Stone Pillar
+  - first:
+      213: 2840546572712726530
+    second: Floor tiles Castle_53
+  - first:
+      213: -2247526989680803522
+    second: Floor tiles Castle_54
+  - first:
+      213: 4757935913974872988
+    second: Wood 1
+  - first:
+      213: -1561766430153826727
+    second: Stone Alone
+  - first:
+      213: -1993799726379871910
+    second: Monolith 1 NW
+  - first:
+      213: -797176020345594231
+    second: Monolith 1 NE
+  - first:
+      213: 4186900829858673958
+    second: Stone old 2
+  - first:
+      213: 3171754131819102817
+    second: Carpet Vertical
+  - first:
+      213: -3703644854131709795
+    second: Carpet Alone
+  - first:
+      213: -4667357602792812503
+    second: Stone Deco 1
+  - first:
+      213: -2851514175355243597
+    second: Stone End E
+  - first:
+      213: 5291641619821670
+    second: Wood 2
+  - first:
+      213: -9185755474896292548
+    second: Win
+  - first:
+      213: -7199273857021214097
+    second: Monolith 1 SW
+  - first:
+      213: 3882202533594994958
+    second: Monolith 1 SE
+  - first:
+      213: 7471868489455586843
+    second: Wood large N 1
+  - first:
+      213: -4937850475651040913
+    second: Carpet Centre
+  - first:
+      213: 9043171464174508776
+    second: Carpet Centre hourglass
+  - first:
+      213: -9158779684939893804
+    second: Wood large N2
+  - first:
+      213: -5007855299963731104
+    second: Floor tiles Castle_72
+  - first:
+      213: -2480096420937363619
+    second: Floor tiles Castle_73
+  - first:
+      213: -5355753047711115501
+    second: Wood large NW
+  - first:
+      213: 65434336057116127
+    second: Wood large NE
+  - first:
+      213: 246633380359112729
+    second: Stone Crossroads W
+  - first:
+      213: -4774240262448531405
+    second: Stone Vertical
+  - first:
+      213: 7805307286947002360
+    second: Stone Vertical Deco 2
+  - first:
+      213: 6758532222240040404
+    second: Monolith 2 SW
+  - first:
+      213: 5870147210990164142
+    second: Monolith 2 SE
+  - first:
+      213: 9197282555285885931
+    second: Stone Vertial Deco 1
+  - first:
+      213: 4391481213350180183
+    second: Wood Horizontal 3
+  - first:
+      213: 1999838506409762196
+    second: Monolith 2 NW
+  - first:
+      213: 8534262895860302492
+    second: Win base
+  - first:
+      213: 5724064743796607174
+    second: Floor tiles Castle_85
+  - first:
+      213: -8917219306413915483
+    second: Wood Horizontal 4
+  - first:
+      213: -284286069107670037
+    second: Wood Horizontal 5
+  - first:
+      213: -6730865456093936276
+    second: Wood E
+  - first:
+      213: 2494774926832286296
+    second: Wood Crossroads S
+  - first:
+      213: -6766864173324472839
+    second: Wood corner 1
+  - first:
+      213: -1428285464801690612
+    second: Carpet crossroads S clean
+  - first:
+      213: 3970831743845133855
+    second: Floor tiles Castle_0
+  - first:
+      213: 922584765958079029
+    second: Floor tiles Castle_1
+  - first:
+      213: -5268661441557917551
+    second: Floor tiles Castle_2
+  - first:
+      213: -4318066011812311362
+    second: Floor tiles Castle_3
+  - first:
+      213: -5961328201887027802
+    second: Floor tiles Castle_4
+  - first:
+      213: -2235269466146567591
+    second: Floor tiles Castle_5
+  - first:
+      213: -4389110288772068695
+    second: Floor tiles Castle_6
+  - first:
+      213: 1037601931584980903
+    second: Floor tiles Castle_7
+  - first:
+      213: 2494819114535418126
+    second: Floor tiles Castle_8
+  - first:
+      213: -7220932574618008926
+    second: Floor tiles Castle_9
+  - first:
+      213: 6127864556137871971
+    second: Floor tiles Castle_10
+  - first:
+      213: -7442609128527258216
+    second: Floor tiles Castle_11
+  - first:
+      213: -5660876620339406021
+    second: Floor tiles Castle_12
+  - first:
+      213: -5385527549454229700
+    second: Floor tiles Castle_13
+  - first:
+      213: -629095027096034824
+    second: Floor tiles Castle_14
+  - first:
+      213: 1349822161817737730
+    second: Floor tiles Castle_15
+  - first:
+      213: -8977163255132668768
+    second: Floor tiles Castle_16
+  - first:
+      213: -4326268121092292173
+    second: Floor tiles Castle_17
+  - first:
+      213: -2441454609896274762
+    second: Floor tiles Castle_18
+  - first:
+      213: 5453387335876427004
+    second: Floor tiles Castle_19
+  - first:
+      213: 3738645472110402128
+    second: Floor tiles Castle_20
+  - first:
+      213: -114423807583885124
+    second: Floor tiles Castle_21
+  - first:
+      213: 9050841400492281510
+    second: Floor tiles Castle_22
+  - first:
+      213: -6516529868571880078
+    second: Floor tiles Castle_23
+  - first:
+      213: 8398345454605649596
+    second: Floor tiles Castle_24
+  - first:
+      213: -8415744440824336490
+    second: Floor tiles Castle_25
+  - first:
+      213: 3278128582571415276
+    second: Floor tiles Castle_26
+  - first:
+      213: 2264928296689580983
+    second: Floor tiles Castle_27
+  - first:
+      213: 7552284450179918078
+    second: Floor tiles Castle_28
+  - first:
+      213: 4312524340583787217
+    second: Floor tiles Castle_29
+  - first:
+      213: -6325156163955409382
+    second: Floor tiles Castle_30
+  - first:
+      213: 3325625569536819083
+    second: Floor tiles Castle_31
+  - first:
+      213: -4806946869864790284
+    second: Floor tiles Castle_32
+  - first:
+      213: -4006279949152329282
+    second: Floor tiles Castle_33
+  - first:
+      213: 5173099241773507849
+    second: Stone Crossroads N Interior 1
+  - first:
+      213: 7097801509056393062
+    second: Floor tiles Castle_35
+  - first:
+      213: -8984696844375578113
+    second: Floor tiles Castle_36
+  - first:
+      213: 9107988328893989184
+    second: Stone Corner Interior
+  - first:
+      213: 3267976267613364623
+    second: Stone Crossroads Interior 1
+  - first:
+      213: 8783537323646411290
+    second: Floor tiles Castle_39
+  - first:
+      213: 8397964202892587343
+    second: Floor tiles Castle_40
+  - first:
+      213: 1455018191780622941
+    second: Floor tiles Castle_41
+  - first:
+      213: -7713240742292652723
+    second: Floor tiles Castle_42
+  - first:
+      213: 1624221368864743364
+    second: Floor tiles Castle_43
+  - first:
+      213: 7025990669853793744
+    second: Floor tiles Castle_44
+  - first:
+      213: -5133132571246511694
+    second: Floor tiles Castle_45
+  - first:
+      213: 742981557275731090
+    second: Floor tiles Castle_46
+  - first:
+      213: 1177682966254424140
+    second: Floor tiles Castle_47
+  - first:
+      213: 4333491045013330688
+    second: Floor tiles Castle_48
+  - first:
+      213: 4219956829386939694
+    second: Floor tiles Castle_49
+  - first:
+      213: 469460717422705569
+    second: Floor tiles Castle_50
+  - first:
+      213: 3509600540535384296
+    second: Floor tiles Castle_51
+  - first:
+      213: 695013742689684924
+    second: Floor tiles Castle_52
+  - first:
+      213: -653217481360652161
+    second: Floor tiles Castle_53
+  - first:
+      213: 6726608434896081716
+    second: Floor tiles Castle_54
+  - first:
+      213: 8519534946105111041
+    second: Floor tiles Castle_55
+  - first:
+      213: -7938112905003652307
+    second: Floor tiles Castle_56
+  - first:
+      213: 2487160047594188673
+    second: Floor tiles Castle_57
+  - first:
+      213: 8533505658223866279
+    second: Floor tiles Castle_58
+  - first:
+      213: 430486873799608600
+    second: Floor tiles Castle_59
+  - first:
+      213: -220215205674002132
+    second: Floor tiles Castle_60
+  - first:
+      213: 1157633146680413178
+    second: Floor tiles Castle_61
+  - first:
+      213: 5340347916453718309
+    second: Floor tiles Castle_62
+  - first:
+      213: 3532005471173999491
+    second: Floor tiles Castle_63
+  - first:
+      213: -8563129327977847107
+    second: Floor tiles Castle_64
+  - first:
+      213: -2715970246472312532
+    second: Floor tiles Castle_65
+  - first:
+      213: -6383493708467695922
+    second: Floor tiles Castle_66
+  - first:
+      213: 5697088961623986506
+    second: Floor tiles Castle_67
+  - first:
+      213: -1978929190657131979
+    second: Floor tiles Castle_68
+  - first:
+      213: 7817011915922727381
+    second: Floor tiles Castle_69
+  - first:
+      213: -9212246182572407070
+    second: Floor tiles Castle_70
+  - first:
+      213: 1750123075459509508
+    second: Floor tiles Castle_71
+  - first:
+      213: -4610774881706621432
+    second: Floor tiles Castle_72
+  - first:
+      213: 169326740131599661
+    second: Floor tiles Castle_73
+  - first:
+      213: -3335626044130912781
+    second: Floor tiles Castle_74
+  - first:
+      213: -5953643127671578728
+    second: Floor tiles Castle_75
+  - first:
+      213: 5378054076830282020
+    second: Floor tiles Castle_76
+  - first:
+      213: 8851220029225457881
+    second: Floor tiles Castle_77
+  - first:
+      213: 1084174212303707862
+    second: Floor tiles Castle_78
+  - first:
+      213: -3150482982542149508
+    second: Floor tiles Castle_79
+  - first:
+      213: -1222542632758029920
+    second: Floor tiles Castle_80
+  - first:
+      213: 2760485543087506799
+    second: Floor tiles Castle_81
+  - first:
+      213: -4336447632475263391
+    second: Floor tiles Castle_82
+  - first:
+      213: 6377904547436421884
+    second: Floor tiles Castle_83
+  - first:
+      213: -4196931882192777589
+    second: Floor tiles Castle_84
+  - first:
+      213: -7914696476323487888
+    second: Floor tiles Castle_85
+  - first:
+      213: 8249865575333801967
+    second: Floor tiles Castle_86
+  - first:
+      213: 884465843282841507
+    second: Floor tiles Castle_87
+  - first:
+      213: 8610926856777550843
+    second: Floor tiles Castle_88
+  - first:
+      213: 3490362928725910854
+    second: Floor tiles Castle_89
+  - first:
+      213: -5166494343644798465
+    second: Floor tiles Castle_90
+  - first:
+      213: 4118839660679648273
+    second: Floor tiles Castle_91
+  - first:
+      213: -1354825231654458131
+    second: Wood Duo Corner
+  - first:
+      213: 5599131649964581831
+    second: Carper Crossroads Clean 1
+  - first:
+      213: -1234044799626656560
+    second: Stone Crossroads N 2
+  - first:
+      213: 8391435389867476372
+    second: Stone Crossroads 2
+  - first:
+      213: -4868196673257059772
+    second: Stone Crossroads 3
+  - first:
+      213: 4929984450260555608
+    second: Floor tiles Castle_97
+  - first:
+      213: 476095213848602133
+    second: Floor tiles Castle_98
+  - first:
+      213: 5363997866537804903
+    second: Floor tiles Castle_92
+  - first:
+      213: -2952243705810991273
+    second: Floor tiles Castle_93
+  - first:
+      213: -1779499108552590418
+    second: Floor tiles Castle_94
+  - first:
+      213: 9001821860828130465
+    second: Floor tiles Castle_95
+  - first:
+      213: -7076728962530428244
+    second: Floor tiles Castle_96
+  - first:
+      213: 2441746133312448033
+    second: Floor tiles Castle_99
+  - first:
+      213: -4254345691468888786
+    second: Floor tiles Castle_100
+  - first:
+      213: 7715091660738557731
+    second: Floor tiles Castle_101
+  - first:
+      213: 3739290885727370949
+    second: Floor tiles Castle_102
+  - first:
+      213: 7254676764991504544
+    second: Floor tiles Castle_103
+  - first:
+      213: 5805066928974923652
+    second: Floor tiles Castle_104
+  - first:
+      213: -6972995692349260690
+    second: Floor tiles Castle_105
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floor tiles Castle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1eebb2ce6a3b1730800000000000000
+      internalID: 3970831743845133855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5324e12e4fdadcc00800000000000000
+      internalID: 922584765958079029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190942e5554f1e6b0800000000000000
+      internalID: -5268661441557917551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe4d3127d52314c0800000000000000
+      internalID: -4318066011812311362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad6109b59b154da0800000000000000
+      internalID: -5961328201887027802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a8e05734abaf0e0800000000000000
+      internalID: -2235269466146567591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa8ab5627fb613c0800000000000000
+      internalID: -4389110288772068695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7c166957d466e00800000000000000
+      internalID: 1037601931584980903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09fcbc34c06f9220800000000000000
+      internalID: 2494819114535418126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2c8ded4181acb90800000000000000
+      internalID: -7220932574618008926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36afd44d85c8a0550800000000000000
+      internalID: 6127864556137871971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d9d042e6a86b890800000000000000
+      internalID: -7442609128527258216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b1b57d4b68071b0800000000000000
+      internalID: -5660876620339406021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f53be3a33c245b0800000000000000
+      internalID: -5385527549454229700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1e9fbe7610547f0800000000000000
+      internalID: -629095027096034824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a9811ca188bb210800000000000000
+      internalID: 1349822161817737730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acb02f1595ba6380800000000000000
+      internalID: -8977163255132668768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1823fb01206f3c0800000000000000
+      internalID: -4326268121092292173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b484e9b7f53e1ed0800000000000000
+      internalID: -2441454609896274762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc378183e25eab40800000000000000
+      internalID: 5453387335876427004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a534aaf3652e330800000000000000
+      internalID: 3738645472110402128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb86d1b372c796ef0800000000000000
+      internalID: -114423807583885124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aecdb2ec4c0b9d70800000000000000
+      internalID: 9050841400492281510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275dc8f4c92a095a0800000000000000
+      internalID: -6516529868571880078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb649c2d1baec8470800000000000000
+      internalID: 8398345454605649596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f62340505453b80800000000000000
+      internalID: -8415744440824336490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6593cd3904e7d20800000000000000
+      internalID: 3278128582571415276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbb9e52944ae6f10800000000000000
+      internalID: 2264928296689580983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef82ea791ba1fc860800000000000000
+      internalID: 7552284450179918078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dae8bdf90a29db30800000000000000
+      internalID: 4312524340583787217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1eb0922bf78838a0800000000000000
+      internalID: -6325156163955409382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fb238e5def62e20800000000000000
+      internalID: 3325625569536819083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f688874a4b4a4db0800000000000000
+      internalID: -4806946869864790284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb16108cc95d668c0800000000000000
+      internalID: -4006279949152329282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone Crossroads N Interior 1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905a0c52a5a8ac740800000000000000
+      internalID: 5173099241773507849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fa981edd4708260800000000000000
+      internalID: 7097801509056393062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9ab60b2d1ff4380800000000000000
+      internalID: -8984696844375578113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone Corner Interior
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04141220123166e70800000000000000
+      internalID: 9107988328893989184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone Crossroads Interior 1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f816085d91f2a5d20800000000000000
+      internalID: 3267976267613364623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12645f98a465e970800000000000000
+      internalID: 8783537323646411290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41fbddb2ff8b8470800000000000000
+      internalID: 8397964202892587343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52b0de1653413410800000000000000
+      internalID: 1455018191780622941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d7390596015f490800000000000000
+      internalID: -7713240742292652723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf18cfbab46a8610800000000000000
+      internalID: 1624221368864743364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd18d7f945518160800000000000000
+      internalID: 7025990669853793744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b93dd97f1373c8b0800000000000000
+      internalID: -5133132571246511694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29426143ac99f4a00800000000000000
+      internalID: 742981557275731090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c409f9d0b68f75010800000000000000
+      internalID: 1177682966254424140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b1b574527a32c30800000000000000
+      internalID: 4333491045013330688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d9717c06c409a30800000000000000
+      internalID: 4219956829386939694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abfaf1090cd38600800000000000000
+      internalID: 469460717422705569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e86122d81b94b030800000000000000
+      internalID: 3509600540535384296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd880f015f25a900800000000000000
+      internalID: 695013742689684924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f784c6e592e4fe6f0800000000000000
+      internalID: -653217481360652161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43390218bb6b95d50800000000000000
+      internalID: 6726608434896081716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1023f1225e77b3670800000000000000
+      internalID: 8519534946105111041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_56
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b205eee5826d190800000000000000
+      internalID: -7938112905003652307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f2560c2ea248220800000000000000
+      internalID: 2487160047594188673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a138370f2a1d6670800000000000000
+      internalID: 8533505658223866279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_59
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8194b49e78569f500800000000000000
+      internalID: 430486873799608600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2959abef63a1fcf0800000000000000
+      internalID: -220215205674002132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb8a18a63db01010800000000000000
+      internalID: 1157633146680413178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529a839b22abc1a40800000000000000
+      internalID: 5340347916453718309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_63
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bff0e3344340130800000000000000
+      internalID: 3532005471173999491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6a620ee37a92980800000000000000
+      internalID: -8563129327977847107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a419563e930201f40800000000000000
+      internalID: 5697088961623986506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_68
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53afa3bc26e6984e0800000000000000
+      internalID: -1978929190657131979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_69
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1e195dbea9b7c60800000000000000
+      internalID: 7817011915922727381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6c250d7e6872080800000000000000
+      internalID: -9212246182572407070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_75
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f90bf7e19606da0800000000000000
+      internalID: -5953643127671578728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4217f4050bfa2aa40800000000000000
+      internalID: 5378054076830282020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d85ec688b9d5da70800000000000000
+      internalID: 8851220029225457881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de500fa3b2cb0f00800000000000000
+      internalID: 1084174212303707862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7879aa5b6c3744d0800000000000000
+      internalID: -3150482982542149508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1dfabe3f7a80fe0800000000000000
+      internalID: -1222542632758029920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65055bc9f63f4620800000000000000
+      internalID: 2760485543087506799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 31
+        width: 16
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e6a3f8ad7d1d3c0800000000000000
+      internalID: -4336447632475263391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_85
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fd3b71d79592290800000000000000
+      internalID: -7914696476323487888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefae76f7096d7270800000000000000
+      internalID: 8249865575333801967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_87
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af07d49ff0464c00800000000000000
+      internalID: 884465843282841507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_88
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbc8158a58208770800000000000000
+      internalID: 8610926856777550843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_89
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64566e74792407030800000000000000
+      internalID: 3490362928725910854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1acf884ccec48b0800000000000000
+      internalID: -5166494343644798465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_91
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114d99d49de092930800000000000000
+      internalID: 4118839660679648273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76460f2d3afb07a40800000000000000
+      internalID: 5363997866537804903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_93
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757c0c0cdf58707d0800000000000000
+      internalID: -2952243705810991273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab399c2df2fd47e0800000000000000
+      internalID: -1779499108552590418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_95
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aca10ae945ecec70800000000000000
+      internalID: 9001821860828130465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caab7a0b0886acd90800000000000000
+      internalID: -7076728962530428244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857daf1ccb2da6440800000000000000
+      internalID: 4929984450260555608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516a5b4131e6b9600800000000000000
+      internalID: 476095213848602133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126a5cbdb23d2e120800000000000000
+      internalID: 2441746133312448033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e258844522785f4c0800000000000000
+      internalID: -4254345691468888786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32776e73df2811b60800000000000000
+      internalID: 7715091660738557731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ceb2abbf31a4e330800000000000000
+      internalID: 3739290885727370949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a04991b41acda460800000000000000
+      internalID: 7254676764991504544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4870be68d9dbf8050800000000000000
+      internalID: 5805066928974923652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c7131cc51fa3f90800000000000000
+      internalID: -6972995692349260690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

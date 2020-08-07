@@ -9,9 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Base.unity
     guid: 4bf7e051609f0fa4a928fdadb7cd700f
   - enabled: 1
-    path: Assets/Scenes/Level 1.unity
+    path: Assets/Scenes/One Step Forward....unity
     guid: 32e08abc523a0fe4b8d74459af5e99fc
   - enabled: 1
-    path: Assets/Scenes/Level 2.unity
+    path: Assets/Scenes/Hole in the floor.unity
     guid: 8526e2081d5936648859bfb075e327bc
   m_configObjects: {}

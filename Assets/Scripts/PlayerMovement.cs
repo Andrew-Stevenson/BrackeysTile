@@ -4,13 +4,23 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+
     [SerializeField] float moveSpeed = 5f;
     [SerializeField] Transform playerGFX;
 
+    [Space]
+    [Header("Layer Masks")]
     [SerializeField] LayerMask whatIsFloor;
     [SerializeField] LayerMask whatIsWin;
+    [SerializeField] LayerMask whatBlocksMovement;
 
-    public bool isMoving = false;
+    [Space]
+    [Header("SFX")]
+    [SerializeField] AudioClip moveSFX;
+    [SerializeField] AudioClip dieSFX;
+    [SerializeField] AudioClip winSFX;
+
+    [HideInInspector] public bool isMoving = false;
     bool isFacingRight = true;
     Vector2 movePoint = new Vector2(0, 0);
 
@@ -37,6 +47,13 @@ public class PlayerMovement : MonoBehaviour
     public void Move(Vector2 direction)
     {
         if (isMoving) { return; }
+
+        SoundsManager.instance.Play(moveSFX);
+
+        if (Physics2D.Raycast(transform.position, direction, 1, whatBlocksMovement))
+        {
+            return;
+        }
 
         timeline.LogMove(direction);
 
@@ -73,19 +90,13 @@ public class PlayerMovement : MonoBehaviour
     {
         transform.position = movePoint;
         isMoving = false;
-        if (isPlayerDead())
+        if (isLevelComplete())
         {
-            timeline.StopRewind();
-            inputController.userControlsMovement = false;
-            animator.SetBool("IsDead", true);
-            GameManager.instance.RestartLevel();
+            Win();
         }
-        else if (isLevelComplete())
+        else if (isPlayerDead())
         {
-            timeline.StopRewind();
-            inputController.userControlsMovement = false;
-            animator.SetTrigger("Win");
-            GameManager.instance.CompleteLevel();
+            Die();
         }
     }
 
@@ -115,5 +126,23 @@ public class PlayerMovement : MonoBehaviour
         {
             return false;
         }
+    }
+
+    void Die()
+    {
+        SoundsManager.instance.Play(dieSFX);
+        timeline.StopRewind();
+        inputController.userControlsMovement = false;
+        animator.SetBool("IsDead", true);
+        GameManager.instance.RestartLevel();
+    }
+
+    void Win()
+    {
+        SoundsManager.instance.Play(winSFX);
+        timeline.StopRewind();
+        inputController.userControlsMovement = false;
+        animator.SetTrigger("Win");
+        GameManager.instance.CompleteLevel();
     }
 }
