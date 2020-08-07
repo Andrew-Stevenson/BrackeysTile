@@ -31,7 +31,7 @@ public class Display : MonoBehaviour
         SpriteRenderer sr = timelineDisplay.GetComponent<SpriteRenderer>();
         sr.size = new Vector2(3 + spacingOffset + (timeline.timelineLength * spacingOffset), sr.size.y);
 
-        hourglass.transform.position = new Vector3((-timeline.timelineLength / 2f)*spacingOffset - 0.6f, hourglass.transform.position.y);
+        hourglass.transform.position = new Vector3((-timeline.timelineLength / 2f)*spacingOffset - 0.65f, hourglass.transform.position.y);
 
         hourglassAnimator = hourglass.GetComponent<Animator>();
 
