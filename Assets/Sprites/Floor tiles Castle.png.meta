@@ -611,6 +611,15 @@ TextureImporter:
   - first:
       213: -6972995692349260690
     second: Floor tiles Castle_105
+  - first:
+      213: 5173099241773507849
+    second: Floor tiles Castle_34
+  - first:
+      213: -7387984669703482736
+    second: Floor tiles Castle_37
+  - first:
+      213: -2807113256107695814
+    second: Floor tiles Castle_38
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -1429,27 +1438,6 @@ TextureImporter:
       bones: []
       spriteID: eb16108cc95d668c0800000000000000
       internalID: -4006279949152329282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Stone Crossroads N Interior 1
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 905a0c52a5a8ac740800000000000000
-      internalID: 5173099241773507849
       vertices: []
       indices: 
       edges: []
@@ -2773,6 +2761,48 @@ TextureImporter:
       bones: []
       spriteID: e6c7131cc51fa3f90800000000000000
       internalID: -6972995692349260690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092da4c061b987990800000000000000
+      internalID: -7387984669703482736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor tiles Castle_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a312965cd512b09d0800000000000000
+      internalID: -2807113256107695814
       vertices: []
       indices: 
       edges: []
