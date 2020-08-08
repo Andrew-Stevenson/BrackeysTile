@@ -48,12 +48,12 @@ public class PlayerMovement : MonoBehaviour
     {
         if (isMoving) { return; }
 
-        SoundsManager.instance.Play(moveSFX);
-
         if (Physics2D.Raycast(transform.position, direction, 1, whatBlocksMovement))
         {
             return;
         }
+
+        SoundsManager.instance.Play(moveSFX);
 
         timeline.LogMove(direction);
 
