@@ -53,7 +53,7 @@ public class Timeline : MonoBehaviour
                 Vector2 move = timeline[i];
                 timeline[i] = Vector2.zero;
                 movementController.Move(move);
-                yield return new WaitForSeconds(.6f);
+                yield return new WaitForSeconds(.4f);
             }
         }
         timeline = new List<Vector2>();

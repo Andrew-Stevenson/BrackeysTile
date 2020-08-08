@@ -24,7 +24,10 @@ EditorBuildSettings:
     path: Assets/Scenes/Walled Off.unity
     guid: a95e1abc4b38ec348ac62811b056e855
   - enabled: 1
-    path: Assets/Scenes/One Step Forward....unity
+    path: Assets/Scenes/One Step Forwards....unity
+    guid: e4cde234de864b24381f6d1071dcef18
+  - enabled: 1
+    path: Assets/Scenes/Up and Down.unity
     guid: 32e08abc523a0fe4b8d74459af5e99fc
   - enabled: 1
     path: Assets/Scenes/There and Back Again.unity
@@ -32,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/The Lock and the Key.unity
     guid: d582ca2be8f4cdb48bf3c211d59bb942
+  - enabled: 1
+    path: Assets/Scenes/Line It Up.unity
+    guid: cb8f6acaafd219342877706dbba3b7a7
   m_configObjects: {}
