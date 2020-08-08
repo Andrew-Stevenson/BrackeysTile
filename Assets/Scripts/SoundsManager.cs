@@ -6,6 +6,7 @@ public class SoundsManager : MonoBehaviour
 {
     // Audio players components.
     public AudioSource effectsSource;
+    public AudioSource sustainSource;
     public AudioSource musicSource;
 
     // Random pitch adjustment range.
@@ -28,10 +29,18 @@ public class SoundsManager : MonoBehaviour
     }
 
     // Play a single clip through the sound effects source.
-    public void Play(AudioClip clip)
+    public void Play(AudioClip clip, bool sustain = false)
     {
-        effectsSource.clip = clip;
-        effectsSource.Play();
+        if (sustain)
+        {
+            effectsSource.clip = clip;
+            effectsSource.Play();
+        }
+        else
+        {
+            sustainSource.clip = clip;
+            sustainSource.Play();
+        }
     }
 
     // Play a single clip through the music source.
@@ -55,6 +64,7 @@ public class SoundsManager : MonoBehaviour
     public void ToggleSFX()
     {
         effectsSource.mute = !effectsSource.mute;
+        sustainSource.mute = !sustainSource.mute;
     }
 
     public void ToggleMusic()

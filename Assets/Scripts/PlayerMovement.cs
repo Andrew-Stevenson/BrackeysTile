@@ -130,7 +130,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Die()
     {
-        SoundsManager.instance.Play(dieSFX);
+        SoundsManager.instance.Play(dieSFX, true);
         timeline.StopRewind();
         inputController.userControlsMovement = false;
         animator.SetBool("IsDead", true);
@@ -139,7 +139,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Win()
     {
-        SoundsManager.instance.Play(winSFX);
+        SoundsManager.instance.Play(winSFX, true);
         timeline.StopRewind();
         inputController.userControlsMovement = false;
         animator.SetTrigger("Win");

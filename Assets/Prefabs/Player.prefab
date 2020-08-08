@@ -60,7 +60,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4096
   moveSFX: {fileID: 8300000, guid: f1af118d894b5fc429a1dc4f37322022, type: 3}
-  dieSFX: {fileID: 0}
+  dieSFX: {fileID: 8300000, guid: 17577251d023cb049aecfdcd8fd509b0, type: 3}
   winSFX: {fileID: 8300000, guid: 20e75c2ec36378c4ea2bae2017069f3a, type: 3}
   isMoving: 0
 --- !u!114 &4519088240604430185
@@ -201,7 +201,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 907089195
-  m_SortingLayer: 3
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: -8416804778740628856, guid: bb37c224127a1a249a5922b85e15817b,
     type: 3}

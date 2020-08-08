@@ -18,6 +18,22 @@ public class UserInput : MonoBehaviour
     void Update()
     {
         if (userControlsMovement) { HandleMovementInput(); }
+        if (Input.GetKeyDown(KeyCode.M))
+        {
+            SoundsManager.instance.ToggleMusic();
+        }
+        if (Input.GetKeyDown(KeyCode.N))
+        {
+            SoundsManager.instance.ToggleSFX();
+        }
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            GameManager.instance.RestartLevel();
+        }
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
     }
 
     private void HandleMovementInput()

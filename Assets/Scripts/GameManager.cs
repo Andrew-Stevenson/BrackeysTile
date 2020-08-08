@@ -23,6 +23,10 @@ public class GameManager : MonoBehaviour
     {
         if (SceneManager.sceneCount < 2)
             SceneManager.LoadScene(currentLevel, LoadSceneMode.Additive);
+        if (SceneManager.GetActiveScene().buildIndex > endLevel)
+        {
+            StartCoroutine(LoadMainMenu());
+        }
     }
 
     public void RestartLevel()
@@ -78,7 +82,7 @@ public class GameManager : MonoBehaviour
 
         if (endLevel == currentLevel)
         {
-            //SceneManager.LoadScene(currentLevel + 1, LoadSceneMode.Single);           
+            SceneManager.LoadScene(currentLevel + 1, LoadSceneMode.Single);
         }
         else
         {
@@ -96,5 +100,18 @@ public class GameManager : MonoBehaviour
         Fader.instance.FadeIn();
 
         levelComplete = false;
+    }
+
+    IEnumerator LoadMainMenu()
+    {
+        yield return new WaitForSeconds(5);
+
+        Fader.instance.FadeOut();
+
+        yield return new WaitForSeconds(.6f);
+
+        currentLevel = 1;
+
+        SceneManager.LoadScene(0);
     }
 }
