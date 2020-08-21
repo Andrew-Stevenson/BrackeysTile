@@ -23,6 +23,36 @@ TextureImporter:
   - first:
       213: -2165604842905526747
     second: Lock Block Animation_6
+  - first:
+      213: 8320328491086598927
+    second: Lock Block Animation_0
+  - first:
+      213: -6193881850820932014
+    second: Lock Block Animation_1
+  - first:
+      213: 2267681289309306791
+    second: Lock Block Animation_2
+  - first:
+      213: 2235015720831646210
+    second: Lock Block Animation_3
+  - first:
+      213: 1154746381823636787
+    second: Lock Block Animation_4
+  - first:
+      213: 4666599099848860736
+    second: Lock Block Animation_5
+  - first:
+      213: 2840528698698924201
+    second: Lock Block Animation_6
+  - first:
+      213: -2275184432027224757
+    second: Lock Block Animation_7
+  - first:
+      213: 1418749863660345159
+    second: Lock Block Animation_7
+  - first:
+      213: -15238324770244452
+    second: Lock Block Animation_8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -138,7 +168,7 @@ TextureImporter:
         x: 0
         y: 0
         width: 16
-        height: 19
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,8 +176,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4fade5148fbf9d200800000000000000
-      internalID: 205472301689264884
+      spriteID: f0357cdfdaeb77370800000000000000
+      internalID: 8320328491086598927
       vertices: []
       indices: 
       edges: []
@@ -159,7 +189,7 @@ TextureImporter:
         x: 16
         y: 0
         width: 16
-        height: 19
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,8 +197,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08994df56b8586700800000000000000
-      internalID: 533774096158464384
+      spriteID: 25e4415f549ea0aa0800000000000000
+      internalID: -6193881850820932014
       vertices: []
       indices: 
       edges: []
@@ -180,7 +210,7 @@ TextureImporter:
         x: 32
         y: 0
         width: 16
-        height: 19
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,8 +218,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ead7c569b9616b230800000000000000
-      internalID: 3654133005156122030
+      spriteID: 7afb4113e1c687f10800000000000000
+      internalID: 2267681289309306791
       vertices: []
       indices: 
       edges: []
@@ -201,7 +231,7 @@ TextureImporter:
         x: 48
         y: 0
         width: 16
-        height: 19
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,8 +239,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4c6fd0600d8b5dc0800000000000000
-      internalID: -3649168040288883636
+      spriteID: 20a759bd4fe540f10800000000000000
+      internalID: 2235015720831646210
       vertices: []
       indices: 
       edges: []
@@ -222,7 +252,7 @@ TextureImporter:
         x: 64
         y: 0
         width: 16
-        height: 19
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,8 +260,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a4a6634fc7aa59740800000000000000
-      internalID: 5158216401872644682
+      spriteID: 335f34657bb760010800000000000000
+      internalID: 1154746381823636787
       vertices: []
       indices: 
       edges: []
@@ -243,7 +273,7 @@ TextureImporter:
         x: 80
         y: 0
         width: 16
-        height: 19
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -251,8 +281,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5de9abeecc6e02450800000000000000
-      internalID: 6062098866293612245
+      spriteID: 04426a7182713c040800000000000000
+      internalID: 4666599099848860736
       vertices: []
       indices: 
       edges: []
@@ -264,7 +294,7 @@ TextureImporter:
         x: 96
         y: 0
         width: 16
-        height: 19
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,8 +302,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52e10c68ed932f1e0800000000000000
-      internalID: -2165604842905526747
+      spriteID: 9a0804c3dc59b6720800000000000000
+      internalID: 2840528698698924201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lock Block Animation_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747db90fb7960b310800000000000000
+      internalID: 1418749863660345159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lock Block Animation_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98f81903dcd9cff0800000000000000
+      internalID: -15238324770244452
       vertices: []
       indices: 
       edges: []

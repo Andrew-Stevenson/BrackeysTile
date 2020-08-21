@@ -13,19 +13,23 @@ public class GameManager : MonoBehaviour
         instance = this;
     }
 
+    public int firstLevel = 2;
     public int currentLevel = 1;
-    public int endLevel = 1;
+    public int numberOfLevels = 1;
     public bool levelComplete = false;
     public bool isReloading = false;
+    public Camera mainCamera;
 
 
     private void Start()
     {
-        if (SceneManager.sceneCount < 2)
-            SceneManager.LoadScene(currentLevel, LoadSceneMode.Additive);
-        if (SceneManager.GetActiveScene().buildIndex > endLevel)
+        if (SceneManager.sceneCount < 2) {
+            SceneManager.LoadScene(1, LoadSceneMode.Additive);
+            mainCamera.enabled = (false);
+        }
+        else
         {
-            StartCoroutine(LoadMainMenu());
+            currentLevel = Mathf.Max(SceneManager.GetSceneAt(1).buildIndex, SceneManager.GetSceneAt(0).buildIndex);
         }
     }
 
@@ -68,33 +72,43 @@ public class GameManager : MonoBehaviour
 
         levelComplete = true;
 
-        StartCoroutine(LoadNextLevel());
+        StartCoroutine(LoadNextLevel(currentLevel + 1));
     }
 
-    IEnumerator LoadNextLevel()
+    IEnumerator LoadNextLevel(int nextLevel, float delay = 1f)
     {
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(delay);
 
         Fader.instance.FadeOut();
 
         yield return new WaitForSeconds(.6f);
 
-
-        if (endLevel == currentLevel)
+        if (nextLevel >= firstLevel)
         {
-            SceneManager.LoadScene(currentLevel + 1, LoadSceneMode.Single);
+            mainCamera.enabled = (true);
+        } else
+        {
+            mainCamera.enabled = (false);
         }
-        else
+
+        AsyncOperation unload = SceneManager.UnloadSceneAsync(currentLevel);
+
+        while (!unload.isDone)
         {
-            AsyncOperation unload = SceneManager.UnloadSceneAsync(currentLevel);
+            yield return 0;
+        }
 
-            while (!unload.isDone)
-            {
-                yield return 0;
-            }
+        currentLevel = nextLevel;
+        AsyncOperation load = SceneManager.LoadSceneAsync(currentLevel, LoadSceneMode.Additive);
+        while (!load.isDone)
+        {
+            yield return 0;
+        }
 
-            currentLevel++;
-            SceneManager.LoadScene(currentLevel, LoadSceneMode.Additive);
+        if (firstLevel + numberOfLevels == currentLevel)
+        {
+            mainCamera.enabled = (false);
+            StartCoroutine(LoadMainMenu(5));
         }
 
         Fader.instance.FadeIn();
@@ -102,16 +116,41 @@ public class GameManager : MonoBehaviour
         levelComplete = false;
     }
 
-    IEnumerator LoadMainMenu()
+    public void LoadMenu()
     {
-        yield return new WaitForSeconds(5);
+        StartCoroutine(LoadMainMenu(0));
+    }
+
+    IEnumerator LoadMainMenu(float delay)
+    {
+        yield return new WaitForSeconds(delay);
 
         Fader.instance.FadeOut();
 
         yield return new WaitForSeconds(.6f);
+        mainCamera.enabled = (true);
+
+        AsyncOperation unload = SceneManager.UnloadSceneAsync(currentLevel);        
+
+        while (!unload.isDone)
+        {
+            yield return 0;
+        }
 
         currentLevel = 1;
+        AsyncOperation load = SceneManager.LoadSceneAsync(currentLevel, LoadSceneMode.Additive);
+        while (!load.isDone)
+        {
+            yield return 0;
+        }
+        mainCamera.enabled = (false);
+        FindObjectOfType<MainMenu>().SkipAnimation();
+        Fader.instance.FadeIn();
+    }
 
-        SceneManager.LoadScene(0);
+    public void LoadFirstLevel()
+    {
+        currentLevel = 1;
+        StartCoroutine(LoadNextLevel(firstLevel, 0));
     }
 }

@@ -2287,11 +2287,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 80
-        y: 32
+        y: 35
         width: 16
-        height: 32
+        height: 29
       alignment: 9
-      pivot: {x: 0.5, y: 0.35}
+      pivot: {x: 0.5, y: 0.27586207}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2307,12 +2307,12 @@ TextureImporter:
       name: Floor tiles Castle_82
       rect:
         serializedVersion: 2
-        x: 96
-        y: 31
+        x: 80
+        y: 32
         width: 16
-        height: 33
+        height: 3
       alignment: 9
-      pivot: {x: 0.5, y: 0.35}
+      pivot: {x: 0.5, y: -1.6666666}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
